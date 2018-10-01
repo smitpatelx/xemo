@@ -1,3 +1,8 @@
+#   Author:     Smit Patel
+#   Date:       25/07/2018
+#   File:       chatbot_trainer.py
+#   Licence:    MIT
+
 from chatterbot import ChatBot
 from chatterbot.trainers import ListTrainer
 import os

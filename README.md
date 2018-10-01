@@ -1,3 +1,5 @@
+## Version: 0.4
+
 # THIS IS XEMO CHAT-BOT project.
 * This is not a commercial project.
 * All the components and models data use for training are opensource.
